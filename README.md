@@ -25,7 +25,7 @@ The purpose of this project was to alter the data of the students_complete.csv b
   
   ![mathscores](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Math%20Scores%20by%20Grade.png)
   
-  ![readingscore(https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Reading%20Scores%20by%20Grade.png)
+  ![readingscore](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Reading%20Scores%20by%20Grade.png)
  
   * Scores by school spending: Since there were less ninth-graders, there was a decrease in school spending per student.
   
