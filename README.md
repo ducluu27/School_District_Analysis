@@ -21,14 +21,26 @@ The purpose of this project was to alter the data of the students_complete.csv b
 
 * How does replacing the ninth-grade scores affect the following:
 
- * Math and reading scores by grade: The average for both reading and math scores had a decreased.
+  * Math and reading scores by grade: The average for both reading and math scores had a decreased.
+  
+  ![mathscores](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Math%20Scores%20by%20Grade.png)
+  
+  ![readingscore(https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Reading%20Scores%20by%20Grade.png)
  
- * Scores by school spending: Since there were less ninth-graders, there was a decrease in school spending per student.
+  * Scores by school spending: Since there were less ninth-graders, there was a decrease in school spending per student.
+  
+  ![spendingranges](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Spending%20ranges%20per%20student.png)
  
- * Scores by school size: The scores by school size decreased.
+  * Scores by school size: The scores by school size decreased.
+  
+  ![schoolsize](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/School%20Size.png)
  
- * Scores by school type: Since Thomas High School is a district, the % passing math, reading and overall passing had a decrease. 
+  * Scores by school type: Since Thomas High School is a district, the % passing math, reading and overall passing had a decrease. 
+  
+  ![type](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/School%20Type.png)
 
 ### Summary
 
 After removing out the ninth graders from Thomas High School had an overall decrease for scores by school size, type, and spending. Also, the math and reading scores by grade had a decrease after the removal of ninth graders. 
+
+![summary](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Per%20School%20Summary.png)
