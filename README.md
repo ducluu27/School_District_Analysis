@@ -17,7 +17,7 @@ The purpose of this project was to alter the data of the students_complete.csv b
   
   * When comparing the new math and reading scores with the replaced ninth graders' score to other schools, Thomas High was the second highest in terms of % overall passing at 90.95%.  Also, Thomas High School placed in the top 5 for % passing math and reading. 
   
-  ![top5]https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Top%205%20Schools.png
+  ![top5](https://github.com/ducluu27/School_District_Analysis/blob/master/Resources/Top%205%20Schools.png)
 
 * How does replacing the ninth-grade scores affect the following:
 
