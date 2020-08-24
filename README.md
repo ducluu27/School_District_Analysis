@@ -17,3 +17,16 @@ The purpose of this project was to alter the data of the students_complete.csv b
   
   * When comparing the new math and reading scores with the replaced ninth graders' score to other schools, Thomas High was the second highest in terms of % overall passing at 90.95%.  Also, Thomas High School placed in the top 5 for % passing math and reading. 
 
+* How does replacing the ninth-grade scores affect the following:
+
+ * Math and reading scores by grade: The average for both reading and math scores had a decreased.
+ 
+ * Scores by school spending: Since there were less ninth-graders, there was a decrease in school spending per student.
+ 
+ * Scores by school size: The scores by school size decreased.
+ 
+ * Scores by school type: Since Thomas High School is a district, the % passing math, reading and overall passing had a decrease. 
+
+### Summary
+
+After removing out the ninth graders from Thomas High School had an overall decrease for scores by school size, type, and spending. Also, the math and reading scores by grade had a decrease after the removal of ninth graders. 
